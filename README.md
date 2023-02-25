@@ -7,7 +7,7 @@ This game creates a series of tones and blinks of a button and requires a user t
 
 | Game Start | Game Over |
 | ----------- | ----------- |
-| <img src="images/gameplay.png" alt="game-start-screenshot" width="100%" height="300px"> | <img src="images/gameover.png" alt="game-over-screenshot" width="100%" height="300px"> |
+| <img src="images/gameplay.png" alt="game-start-screenshot" width="100%" height="250px"> | <img src="images/gameover.png" alt="game-over-screenshot" width="100%" height="250px"> |
 
 </div>
 
