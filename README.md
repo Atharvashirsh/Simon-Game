@@ -4,9 +4,15 @@ This game creates a series of tones and blinks of a button and requires a user t
 
 # In-game Screenshots
 <div align="center">
-<img src="images/screenshots/gamestart.png" alt="game-start-screenshot" width="50%" height="200px"> <img src="images/screenshots/gameover.png" alt="game-over-screenshot" width="50%" height="200px">
+
+`Game Start` &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  `Game Over` 
+
+<img align="left" src="images/gameplay.png" alt="game-start-screenshot" width="48%" height="300px"> <img align="right" src="images/gameover.png" alt="game-over-screenshot" width="48%" height="300px">
+
 </div>
 
+<hr>
 
-# Link
+<h1>Link</h1>
+
 [Visit Game](https://atharvashirsh.github.io/Simon-Game/)
