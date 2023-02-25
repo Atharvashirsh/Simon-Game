@@ -5,11 +5,9 @@ This game creates a series of tones and blinks of a button and requires a user t
 # In-game Screenshots
 <div align="center">
 
-`Game Start` &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  `Game Over` 
-
-<img align="left" src="images/gameplay.png" alt="game-start-screenshot" width="48%" height="300px"> <img align="right" src="images/gameover.png" alt="game-over-screenshot" width="48%" height="300px">
-
-# .  
+| Game Start | Game Over |
+| ----------- | ----------- |
+| <img src="images/gameplay.png" alt="game-start-screenshot" width="100%" height="300px"> | <img src="images/gameover.png" alt="game-over-screenshot" width="100%" height="300px"> |
 
 </div>
 
