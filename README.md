@@ -15,4 +15,4 @@ This game creates a series of tones and blinks of a button and requires a user t
 
 <h1>Link</h1>
 
-[Visit Game](https://atharvashirsh.github.io/Simon-Game/)
+<a href="https://atharvashirsh.github.io/Simon-Game/" target="_blank" >Visit Game</a>
