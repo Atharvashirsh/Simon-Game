@@ -9,10 +9,10 @@ This game creates a series of tones and blinks of a button and requires a user t
 
 <img align="left" src="images/gameplay.png" alt="game-start-screenshot" width="48%" height="300px"> <img align="right" src="images/gameover.png" alt="game-over-screenshot" width="48%" height="300px">
 
+# .  
+
 </div>
 
-<hr>
-
-<h1>Link</h1>
+# Link
 
 <a href="https://atharvashirsh.github.io/Simon-Game/" target="_blank" >Visit Game</a>
